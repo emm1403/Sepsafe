@@ -15,7 +15,14 @@ This repository contains the complete implementation of *Sepsafe*, a mobile and 
 - Android SDK 33+
 - Python 3.9 (for model training only)
 
-## How to Run the Android App
+## How to run
 1. Clone the repository:
-```bash
-git clone https://github.com/emm1403/Sepsafe.git
+   https://github.com/emm1403/Sepsafe.git
+2. Open Android Studio -> Open -> select the project folder
+3. Let Gradle sync
+4. Run on emulator or physical device
+
+## Model
+The app uses a TensorFlow Lite model stored in:
+app/src/main/assets/
+
