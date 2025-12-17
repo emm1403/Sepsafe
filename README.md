@@ -18,4 +18,4 @@ This repository contains the complete implementation of *Sepsafe*, a mobile and 
 ## How to Run the Android App
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/Sepsafe.git
+git clone https://github.com/emm1403/Sepsafe.git
