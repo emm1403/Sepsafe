@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SepSafe</string>
+    <string name="input_hint">Ingrese valores separados por coma</string>
+    <string name="predict_button">Predecir</string>
+
+</resources>
